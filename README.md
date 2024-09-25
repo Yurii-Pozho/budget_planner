@@ -1,8 +1,8 @@
-#### Budget Planning and Tracking Program
+### Budget Planning and Tracking Program
 This program, developed in Excel, helps users efficiently plan their budget, track financial transactions, and analyze financial outcomes through an interactive dashboard.
 
-### Functionality Overview
-## 1. "Budget Planning" Sheet
+## Functionality Overview
+# 1. "Budget Planning" Sheet
 # Planned Income, Expenses, and Savings:
 In the green section, planned income is entered.
 In the red section, planned expenses are specified.
