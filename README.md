@@ -3,7 +3,7 @@ This program, developed in Excel, helps users efficiently plan their budget, tra
 
 ## Functionality Overview
 ### 1. "Budget Planning" Sheet
-## Planned Income, Expenses, and Savings:
+#### Planned Income, Expenses, and Savings:
 In the green section, planned income is entered.
 In the red section, planned expenses are specified.
 In the blue section, planned savings are displayed.
